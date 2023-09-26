@@ -1,5 +1,5 @@
 
-//     -----------Name:- Rajeev Chaudhary --------Univ. Roll No:- 2215001417 ----------
+//    Name:-RISHABH PANDEY-------Univ. Roll No:- 2215001445--------------
 
 import java.util.Scanner;;
 public class oneTonUsingWhile {
