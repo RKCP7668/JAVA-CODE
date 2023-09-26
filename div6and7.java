@@ -1,6 +1,3 @@
-
-//     -----------Name:- Rajeev Chaudhary --------Univ. Roll No:- 2215001417 ----------
-
 import java.util.Scanner;
 public class div6and7 {
     public static void main(String[] args)
